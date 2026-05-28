@@ -1,4 +1,4 @@
-# FireCrust Pizza Ordering App
+# Lizzy Pizza Ordering App
 
 Complete fullstack pizza ordering application built with FastAPI, SQLAlchemy, SQLite, JWT auth, React, Vite, TailwindCSS, and Axios.
 
